@@ -38,7 +38,7 @@ To install in hardware,
 Setup docker
 
 Create builder: 
-  - docker build buildenv -t mosk-env
+  - docker build builder -t mosk-env
 
 Build ISO:
   - docker run --rm -it -v "$(pwd)":/root/env mosk-env
