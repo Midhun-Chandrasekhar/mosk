@@ -1,4 +1,4 @@
-# MOSK  Master OS Kernal
+# MOSK - Master OS Kernal
 Master OS Kernal (MOSK) is kernal used tagetted on x86_64 and x64 based systems. MOSK facilitates kernal activities for differet varients of Master Operating system (MOS).
 <br>
 Auther: Midhun Chandrasekhar
